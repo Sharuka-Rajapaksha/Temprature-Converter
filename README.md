@@ -7,7 +7,7 @@
 <p>Initially check you have Java in your computure by using `java --version` OR `java -version`</p>
 <p>If you don't have Java in your computer follow below steps:</p>
 
-<h3>Steps to install Java</h3>
+<h2>Steps to install Java</h2>
 <a href ="https://code.visualstudio.com/docs/languages/java"> Install Visual Studio Code for Java from here</a>
 <p>Install the required Java setup based on Windows or macOS</p>
 <p>Then open the application with visual studio code and run the program</p>
