@@ -4,7 +4,10 @@
 
 <h2>Prerequisites</h2>
 <p>This is an example of how to list things you need to use the software and how to install them.</p>
-<p>Initially check you have Java in your computure by using. Type ```hi``` `java --version` OR `java -version` in the command prompt</p>
+<p>Initially check you have Java in your computure by using. Type 
+  ```
+  hi
+  ``` `java --version` OR `java -version` in the command prompt</p>
 <p>If you don't have Java in your computer follow below steps:</p>
 
 <h2>Installation</h2>
