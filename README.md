@@ -7,6 +7,9 @@
 <p>This is an example of how to list things you need to use the software and how to install them.</p>
 <p>Initially check you have Java in your computure by using. Type 'java --version' OR 'java -version' in the command prompt</p>
 <clibboard-copy>hi</clibboard-copy>
+
+<clipboard-copy value="src/index.js">Copy</clipboard-copy>
+
 <p>If you don't have Java in your computer follow below steps to Java Installation</p>
 
 <h2> Java Installation</h2>
