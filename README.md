@@ -7,7 +7,7 @@
 <p>Initially check you have Java on your computer. Type 'java --version' OR `java -version` in the command prompt.</p>
 <p>If you don't have Java on your computer follow the below steps to Java Installation.</p>
 
-- `src`: the folder to maintain sources
+- `java --version`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 - 
 <h2> Java Installation</h2>
