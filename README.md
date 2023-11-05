@@ -4,16 +4,12 @@
 
 <h2>Prerequisites</h2>
 <p>This is an example of how to list things you need to use the software and how to install them.</p>
-<p>Initially check you have Java in your computure by using. Type 
-  ````
-  hi
-  ```` 
-  `java --version` OR `java -version` in the command prompt</p>
-<p>If you don't have Java in your computer follow below steps:</p>
+<p>Initially check you have Java in your computure by using. Type 'java --version' OR 'java -version' in the command prompt</p>
+<p>If you don't have Java in your computer follow below steps to Java Installation</p>
 
-<h2>Installation</h2>
-<a href ="https://code.visualstudio.com/docs/languages/java"> Install Visual Studio Code for Java from here</a>
-<p>When you are downloading choose the Java version based on Windows or macOS.</p>
-<p>Then open the application with visual studio code and run the program.</p>
+<h2> Java Installation</h2>
+<a href ="https://code.visualstudio.com/docs/languages/java"> Install Java for Visual Studio Code from here</a>
+<p> When you are downloading choose the Java version based on Windows or macOS. </p>
+<p> Then open the application with visual studio code and run the program. </p>
 
 
