@@ -1,6 +1,6 @@
 <h2>Java - Temperature Converter</h2>
 
-<h4>I have completed this temperature converter application by using Java, Git & GiyHub for assignment purposes</h4>
+<h4>I have completed this temperature converter application by using Java, Git & GitHub for assignment purposes</h4>
 
 <h2>Prerequisites</h2>
 <p>This is an example of how to list things you need to use the software and how to install them.</p>
