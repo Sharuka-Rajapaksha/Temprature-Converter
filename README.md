@@ -4,8 +4,7 @@
 
 <h2>Prerequisites</h2>
 <p>This is an example of how to list things you need to use the software and how to install them.</p>
-<p>Initially check you have Java on your computer. 
-So, type;
+<p>Initially check you have Java on your computer through;
 
 - `java --version` OR
 - `java -version` in the command prompt and check you have Java on your computer.
